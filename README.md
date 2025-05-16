@@ -11,21 +11,21 @@
 
      🌐 HTML
 
-      🎨 CSS
+     🎨 CSS
 
-🧠 JavaScript
+     🧠 JavaScript
 
-### It offers robust 🔐 Firebase Authentication for secure access.
+It offers robust 🔐 Firebase Authentication for secure access.
 
-✅ Users can:
+      ✅ Users can:
 
-➕ Create tasks
+      ➕ Create tasks
 
-✏️ Update tasks
+      ✏️ Update tasks
 
-❌ Delete tasks
+      ❌ Delete tasks
 
-🔍 Search tasks by title
+      🔍 Search tasks by title
 
 🧩 Ensuring seamless and efficient task management experience!
 
