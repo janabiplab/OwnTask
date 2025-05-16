@@ -1,25 +1,11 @@
 ###  OwnTask is a task management application built using React, Firebase, Styled Components, HTML, CSS, and JavaScript, offering robust Firebase authentication for secure access. Users can create, update, delete, and search tasks by title, ensuring seamless task management.
 
 
-<div style="text-align: center;">
-  <p>File Structure</p>
-</div>
+### File Structure
 
-### file structure 
-# src/
-  |--assets/
-  |--components/
-     |--Authentication
-     |--Create
-     |--DetailsData
-     |--Fetchdata
-     |--Navbar
-     |--SingleCreate
-  |--Files/
-     |--Home
-  |--App
-  |--firebase
-  |--main
+#src
+
+ <pre> ```bash |-- assets/ |-- components/ | |-- Authentication/ | |-- Create/ | |-- DetailsData/ | |-- Fetchdata/ | |-- Navbar/ | |-- SingleCreate/ |-- Files/ | |-- Home/ |-- App.js |-- firebase.js |-- main.js ``` </pre>
 
 
 
