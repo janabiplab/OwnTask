@@ -4,7 +4,8 @@
 ### File Structure
 
 ## 📦 project-root/
-# ├── 📁 assets/
+### ├── 📁 assets/
+### ├── components/
 
 
 
