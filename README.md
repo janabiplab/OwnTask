@@ -1,7 +1,7 @@
 ## 📌 Project Description
 <pre>
 
-🚀 OwnTask is a 🗂️ task management application built using:
+### 🚀 OwnTask is a 🗂️ task management application built using:
 
 ⚛️ React
 
@@ -15,7 +15,7 @@
 
 🧠 JavaScript
 
-It offers robust 🔐 Firebase Authentication for secure access.
+### It offers robust 🔐 Firebase Authentication for secure access.
 
 ✅ Users can:
 
