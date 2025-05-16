@@ -3,9 +3,8 @@
 
 ### File Structure
 
-#src
-
-<pre> ```bash 📦 project-root/ ├── 📁 assets/ ├── 📁 components/ │ ├── 🔐 Authentication/ │ ├── 📝 Create/ │ ├── 📊 DetailsData/ │ ├── 📥 Fetchdata/ │ ├── 🧭 Navbar/ │ └── 🧩 SingleCreate/ ├── 📁 Files/ │ └── 🏠 Home/ ├── 📄 App.js ├── 🔥 firebase.js └── 🧵 main.js ``` </pre>
+## 📦 project-root/
+# ├── 📁 assets/
 
 
 
