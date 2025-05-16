@@ -6,7 +6,7 @@
 ## 📦 project-root/
 ### ├── 📁 assets/
 ### ├── 📁 components/
-###      ├── 🔐 Authentication/
+### ----------- 🔐 Authentication/
 
 
 
