@@ -5,7 +5,7 @@
 
 #src
 
- <pre> ```bash |-- assets/ |-- components/ | |-- Authentication/ | |-- Create/ | |-- DetailsData/ | |-- Fetchdata/ | |-- Navbar/ | |-- SingleCreate/ |-- Files/ | |-- Home/ |-- App.js |-- firebase.js |-- main.js ``` </pre>
+<pre> ```bash 📦 project-root/ ├── 📁 assets/ ├── 📁 components/ │ ├── 🔐 Authentication/ │ ├── 📝 Create/ │ ├── 📊 DetailsData/ │ ├── 📥 Fetchdata/ │ ├── 🧭 Navbar/ │ └── 🧩 SingleCreate/ ├── 📁 Files/ │ └── 🏠 Home/ ├── 📄 App.js ├── 🔥 firebase.js └── 🧵 main.js ``` </pre>
 
 
 
